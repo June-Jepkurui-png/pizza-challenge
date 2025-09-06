@@ -1,4 +1,4 @@
-# Flask Code Challenge - Pizza Restaurants
+# flasks Code Challenge - Pizza Restaurants
 
 For this assessment, you'll be working with a Pizza Restaurant domain.
 
