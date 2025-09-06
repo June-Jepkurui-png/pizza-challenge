@@ -41,7 +41,7 @@ npm install --prefix client
 You can run your Flask API on [`localhost:5555`](http://localhost:5555) by
 running:
 
-```console
+```console 
 python server/app.py
 ```
 
