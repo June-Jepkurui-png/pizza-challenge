@@ -62,7 +62,7 @@ deliverables below.
 
 ## Models
 
-You will implement an API for the following data model:
+You will implemment an API for the following data model:
 
 ![domain diagram](https://curriculum-content.s3.amazonaws.com/6130/code-challenge-1/domain.png)
 
