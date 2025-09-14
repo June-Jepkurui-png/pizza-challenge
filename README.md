@@ -102,7 +102,7 @@ python server/seed.py
 
 Add validations to the `RestaurantPizza` model:
 
-- must have a `price` between 1 and 30
+- must have a `price` between 1 and 30.
 
 ## Routes
 
