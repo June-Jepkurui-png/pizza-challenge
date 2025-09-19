@@ -146,7 +146,7 @@ a single field).
 
 ### GET /restaurants/<int:id>
 
-If the `Restaurant` exists, return JSON data in the format below:
+If the `Restaurant` exists, return JSON data in the format below
 
 ```json
 {
